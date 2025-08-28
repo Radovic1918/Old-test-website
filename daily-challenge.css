@@ -1,0 +1,64 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(25, 23, 22);
+    font-size: 37px;
+}
+p {
+    text-align: center;
+    font-family:'Trebuchet MS';
+    color: rgb(50, 47, 45);
+    font-size: 20px;
+    font-weight: 400;
+    margin:50px
+ }
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(227, 89, 47);
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 12px 48px;
+    border: 2px solid;
+    border-color: rgb(138, 51, 0);
+    font-family: 'Trebuchet MS';
+    display: inline-block;
+}
+a:hover {
+        text-decoration: none;
+        background-color:  rgb(240, 108, 68);
+}
+ #todays-challenge {
+        color: rgb(50, 47, 45);
+        font-weight: bold;
+        font-size: 52px;
+}
+img{
+        width:200px;
+        height:200px;
+        border-radius:100px;
+        border: 5px solid;
+        border-color: rgb(44, 44, 119);
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+        margin-top: -134px;
+}
+body{
+        text-align: center;
+        background-color: darksalmon;
+        margin: 50px;
+}
+main{
+       width: 800px; 
+       margin: 130px auto;
+       background-color: rgb(72, 121, 237);
+       padding: 5px;
+       border: 5px solid;
+       border-radius: 8px;
+       border-color: rgb(44, 44, 119);
+       box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+       margin-bottom: 50px;
+}
+span{
+        color: rgb(9, 32, 86);
+}
